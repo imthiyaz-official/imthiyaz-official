@@ -8,7 +8,7 @@
 
 ## 💻 About Me
 
-I'm a passionate **software engineer** with a strong foundation in **Python, Web Development, and Machine Learning**. I love building intelligent solutions that solve real-world problems and create meaningful impact. Currently exploring **AI/ML architectures, cloud computing, and competitive programming**.
+📊 Data Analyst | Data Science Enthusiast | Python | SQL | Data-driven problem solver
 
 - 🎓 **Education**: Viswam Engineering College, Andhra Pradesh
 - 🔧 **Specialization**: Full-stack development, AI/ML integration, computer vision
