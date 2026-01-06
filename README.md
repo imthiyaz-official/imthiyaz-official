@@ -112,22 +112,30 @@
 
 ## 📊 GitHub Statistics
 
-- 📈 Consistency over time — learning, building, improving
+<p align="center">
+📈 Consistency over time — learning, building, improving
+</p>
 
 <div align="center">
-  <!-- GitHub Stats -->
+  <!-- Option 1: Tokyo Night Theme -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imthiyaz-official&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  
-  <!-- Top Languages -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imthiyaz-official&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  
+  <!-- Option 2: Dark Theme -->
+  <!--
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imthiyaz-official&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imthiyaz-official&layout=compact&theme=dark" alt="Top Languages"/>
+  -->
 </div>
 
----
-
-## ⚡ GitHub Streak
+<div align="center">
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com/?user=imthiyaz-official&theme=tokyonight" alt="GitHub Streak" height="180em"/>
+</div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=imthiyaz-official&theme=tokyonight" alt="GitHub Streak" height="180em"/>
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imthiyaz-official&theme=github-dark" alt="Activity Graph" width="100%"/>
 </div>
 
 ## 🎓 Learning & Development
