@@ -154,9 +154,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedimthiyaz456@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imthiyaz-official)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=globe&logoColor=white)](https://imthiyaz.dev)
-
 </div>
-
 ---
 
 ## 💡 Quick Facts
