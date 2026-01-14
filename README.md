@@ -118,19 +118,19 @@
 
 <div align="center">
   <!-- Option 1: Tokyo Night Theme -->
-  <img height="180em" src="https://github-README-stats.vercel.app/api?username=imthiyaz-official&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-README-stats.vercel.app/api/top-langs/?username=imthiyaz-official&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img height="180em" src="https://github-README-stats.vercel.app/api?username=imthiyaz-syed&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-README-stats.vercel.app/api/top-langs/?username=imthiyaz-syed&layout=compact&theme=tokyonight" alt="Top Languages"/>
   
   <!-- Option 2: Dark Theme -->
   <!--
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imthiyaz-official&show_icons=true&theme=dark" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imthiyaz-official&layout=compact&theme=dark" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imthiyaz-syed&show_icons=true&theme=dark" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imthiyaz-syed&layout=compact&theme=dark" alt="Top Languages"/>
   -->
 </div>
 
 <div align="center">
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com/?user=https://github.com/imthiyaz-syed&theme=tokyonight" alt="GitHub Streak" height="180em"/>
+  <img src="https://streak-stats.demolab.com/?user=imthiyaz-syed&theme=tokyonight" alt="GitHub Streak" height="180em"/>
 </div>
 
 <div align="center">
