@@ -152,7 +152,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-imthiyaz-9a8a52305)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedimthiyaz456@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imthiyaz-official)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imthiyaz-syedl)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=globe&logoColor=white)](https://imthiyaz.dev)
 </div>
 ---
@@ -164,7 +164,7 @@
 - 💪 Focused on solving real-world problems with data & AI  
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=imthiyaz-official&color=00D4FF&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=imthiyaz-syed&color=00D4FF&style=flat-square" />
   
   ⭐ Star my repositories if you find them useful — it really helps!
 </div>
