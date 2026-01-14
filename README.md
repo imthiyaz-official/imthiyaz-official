@@ -135,7 +135,7 @@
 
 <div align="center">
   <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imthiyaz-syed &theme=github-dark" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imthiyaz-syed&theme=github-dark" alt="Activity Graph" width="100%"/>
 
 ## 🎓 Learning & Development
 
