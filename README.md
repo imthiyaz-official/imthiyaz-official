@@ -130,7 +130,7 @@
 
 <div align="center">
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com/?user=imthiyaz-official&theme=tokyonight" alt="GitHub Streak" height="180em"/>
+  <img src="https://streak-stats.demolab.com/?user=https://github.com/imthiyaz-syed&theme=tokyonight" alt="GitHub Streak" height="180em"/>
 </div>
 
 <div align="center">
